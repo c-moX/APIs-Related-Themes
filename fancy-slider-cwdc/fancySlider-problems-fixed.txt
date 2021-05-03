@@ -1,0 +1,7 @@
+#BUG == FIXED
+-----------------
+01. Fixed the search button result;------------------OKAY.
+02. Sesect image, Create slider button and create slider;---------OKAY.
+03. Time duration fixed (increment and decrement);------------1/2 OKAY.
+04. Search input dynamic and keyboard enter buttton press to submit (New features);
+05. Selected iteams click to unlock;----------OKAY.
